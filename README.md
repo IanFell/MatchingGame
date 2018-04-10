@@ -1,2 +1,2 @@
 # MatchingGame
-Simple matching/memory game in java
+Simple matching/memory game in java.  
